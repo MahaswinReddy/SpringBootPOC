@@ -1,2 +1,2 @@
 # SpringBootPOC
-Ecommerce SpringBoot POC
+Ecommerce API POC
